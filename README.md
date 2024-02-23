@@ -3,7 +3,7 @@ Analysis of drug crime in Korea conducted in R language
 
 <br><br>
 
-## 🗄️ 데이터 개수 🗄️
+## 🗄️ Data 🗄️
 total_drug.csv : 51202 row
 
 <br><br>
