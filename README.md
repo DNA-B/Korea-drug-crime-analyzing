@@ -8,7 +8,7 @@ total_drug.csv : 51202 row
 
 <br><br>
 
-## 👁️‍🗨️ 시각화 👁️‍🗨️
+## 👁️‍🗨️ Vizualizing 👁️‍🗨️
 
 
 <img src="./viz/국내 마약 밀매 종류와 비율.png">
